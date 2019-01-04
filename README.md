@@ -15,6 +15,6 @@ This is a simple React app with the sole aim of being refactored to use Redux. P
 ```cd hello-redux```
 
 3. Run the application 
-```npm start```
+```npm install && npm start```
 
 4. Go on and refactor to use Redux!
