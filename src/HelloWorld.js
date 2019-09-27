@@ -1,11 +1,11 @@
-import React from "react";
+import React from 'react';
 
-const HelloWorld = ({ tech }) => {
-  return (
-    <div className="hello-world">
-      Hello World <span className="hello-world__tech">{tech}!</span>
-    </div>
-  );
+const helloWorld = ({ tech }) => {
+    return (
+        <div className="hello-world">
+            Hello World <span className="hello-world__tech">{tech}!</span>
+        </div>
+    )
 };
 
-export default HelloWorld;
+export default helloWorld;
