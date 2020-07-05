@@ -30,7 +30,7 @@ The simple requirements is illustrated below:
 
 <p align="center">
 	<a href="#" target="_blank">
-		<img width="500" src="https://github.com/ohansemmanuel/HelloUI/blob/master/assets/requirements.png">
+		<img src="https://github.com/ohansemmanuel/HelloUI/blob/master/assets/requirements.png">
 	</a>
 </p>
 
