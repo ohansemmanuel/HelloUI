@@ -14,25 +14,33 @@
 - :tada: A React application
 - :zap: Refactor to Redux, Recoil, XState etc.
 - :hammer: Compare solutions in related branches
-- :rocket: Simple, yet effective hello world app
+- :rocket: Simple, yet effective for learning and teaching
 
 ### About
 
-Think Hello world but for UI development.
+:thought_balloon: Think Hello world but for UI development.
 
 ### Usage
 
-1. Clone the repo
+1. :pinching_hand: Clone the repo
    `git clone https://github.com/ohansemmanuel/hello-redux.git`
-2. Change directory
+2. :eyes: Change directory
    `cd hello-redux`
-3. Run the application
+3. :brain: Run the application
    `npm install && npm start`
-4. Go on and refactor to use Redux!
+4. :zzz: Go on and refactor to use whatever UI technology!
 
 ### Solution
 
-Each solution/implementation lives on its own branch e.g. to view the redux hello-world solution, checkout to branch
+Each solution/implementation lives on its own branch e.g. to view the redux hello-world solution, checkout to branch `redux`
+
+Existing solutions/branches include:
+
+- [x] React
+- [ ] Vue
+- [ ] Svelte
+- [ ] React + Redux
+- [ ] React + XState
 
 ### Contributing
 
