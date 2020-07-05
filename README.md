@@ -1,6 +1,6 @@
 <p align="center">
-	<a href="https://moonjs.org" target="_blank">
-		<img width="125" src="https://github.com/ohansemmanuel/HelloUI/blob/master/src/images/logo.png">
+	<a href="#" target="_blank">
+		<img width="125" src="https://github.com/ohansemmanuel/HelloUI/blob/master/assets/logo.png">
 	</a>
 </p>
 <h1 align="center">HelloUI</h1>
@@ -11,7 +11,7 @@
 
 ### Summary
 
-- :tada: A React application
+- :tada: A web application
 - :zap: Refactor to Redux, Recoil, XState etc.
 - :hammer: Compare solutions in related branches
 - :rocket: Simple, yet effective for learning and teaching
@@ -19,6 +19,20 @@
 ### About
 
 :thought_balloon: Think Hello world for **UI** development.
+
+- The hello world app is designed to be simple.
+- It demands that the core web technologies be employed i.e HTML, CSS & JS
+- While the app may be implemented via different flavours of the core web technologies; Markup, Style and Interactivity will be demanded.
+
+### Requirements
+
+The simple requirements is illustrated below:
+
+<p align="center">
+	<a href="#" target="_blank">
+		<img width="500" src="https://github.com/ohansemmanuel/HelloUI/blob/master/assets/requirements.png">
+	</a>
+</p>
 
 ### Usage
 
