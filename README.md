@@ -47,9 +47,10 @@ All assets live in the `assets` directory on the master branch
 
 ### Solution
 
-Each solution/implementation lives on its own branch e.g. to view the redux hello-world solution, checkout to branch `redux`
+Each solution/implementation lives in the `solutions` directory e.g. to view the react hello-world solution, visit `solutions/react`
+NB: Check each solution's README file for info and notes on the solution.
 
-Existing solutions/branches include:
+Existing solutions include:
 
 - [x] Vanilla JS (master)
 - [x] React (react)
