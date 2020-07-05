@@ -11,8 +11,8 @@
 
 ### Summary
 
-- :tada: A web application
-- :zap: Refactor to Redux, Recoil, XState etc.
+- :tada: A simple web application
+- :zap: Implement via React, Vue, Svelte, Redux, Recoil, XState etc.
 - :hammer: Compare solutions in related branches
 - :rocket: Simple, yet effective for learning and teaching
 
@@ -33,6 +33,10 @@ The simple requirements is illustrated below:
 		<img src="https://github.com/ohansemmanuel/HelloUI/blob/master/assets/requirements.png">
 	</a>
 </p>
+
+### Assets
+
+All assets live in the `assets` directory on the master branch
 
 ### Usage
 
