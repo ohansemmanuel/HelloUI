@@ -13,7 +13,7 @@
 
 - :tada: A simple web application
 - :zap: Implement via React, Vue, Svelte, Redux, Recoil, XState etc.
-- :hammer: Compare solutions in related branches
+- :hammer: Compare solved solutions across different technologies
 - :rocket: Simple, yet effective for learning and teaching
 
 ### About
