@@ -22,13 +22,13 @@
 
 ### Usage
 
-1. :pinching_hand: Clone the repo
-   `git clone https://github.com/ohansemmanuel/hello-redux.git`
-2. :eyes: Change directory
-   `cd hello-redux`
-3. :brain: Run the application
-   `npm install && npm start`
-4. :zzz: Go on and refactor to use whatever UI technology!
+- :pinching_hand: Clone the repo
+  `git clone https://github.com/ohansemmanuel/hello-redux.git`
+- :eyes: Change directory
+  `cd hello-redux`
+- :brain: Run the application
+  `npm install && npm start`
+- :zzz: Go on and refactor to use whatever UI technology!
 
 ### Solution
 
