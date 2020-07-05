@@ -4,7 +4,7 @@
 	</a>
 </p>
 <h1 align="center">HelloUI</h1>
-<p align="center">The minimal hello world app for React, Redux, XState, Recoil and co.</p>
+<p align="center">The minimal hello world app for UI development. React, Vue, Svelte, Redux, XState, Recoil and co.</p>
 <p align="center">
 	<a href="https://license.kabir.sh"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
@@ -40,13 +40,10 @@ All assets live in the `assets` directory on the master branch
 
 ### Usage
 
-- :high_brightness: Clone the repo
-  `git clone https://github.com/ohansemmanuel/hello-redux.git`
-- :eyes: Change directory
-  `cd HelloUI`
-- :brain: Run the application
-  `npm install && npm start`
-- :zzz: Go on and refactor to use whatever UI technology!
+- :high_brightness: Clone the repo: `git clone https://github.com/ohansemmanuel/HelloUI.git`
+- :eyes: Change directory: `cd HelloUI`
+- :brain: Run the application: `npm start` or `yarn start`
+- :zzz: Go on and refactor the core vanilla JS app to use whatever UI technology!
 
 ### Solution
 
@@ -54,7 +51,8 @@ Each solution/implementation lives on its own branch e.g. to view the redux hell
 
 Existing solutions/branches include:
 
-- [x] React
+- [x] Vanilla JS (master)
+- [x] React (react)
 - [ ] Vue
 - [ ] Svelte
 - [ ] React + Redux

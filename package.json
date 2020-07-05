@@ -1,16 +1,26 @@
 {
-  "name": "hello-ui",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2",
-    "react-scripts": "1.1.4"
-  },
+  "name": "helloui",
+  "version": "1.0.0",
+  "description": "Hello world for UI development",
+  "main": "src/index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 3001 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohansemmanuel/HelloUI.git"
+  },
+  "keywords": [
+    "hello-world"
+  ],
+  "author": "Ohans Emmanuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohansemmanuel/HelloUI/issues"
+  },
+  "homepage": "https://github.com/ohansemmanuel/HelloUI#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
   }
 }
