@@ -25,7 +25,7 @@
 - :high_brightness: Clone the repo
   `git clone https://github.com/ohansemmanuel/hello-redux.git`
 - :eyes: Change directory
-  `cd hello-redux`
+  `cd HelloUI`
 - :brain: Run the application
   `npm install && npm start`
 - :zzz: Go on and refactor to use whatever UI technology!
