@@ -14,6 +14,7 @@ body {
   border-radius: 26px;
   box-shadow: 0;
   font-family: 300;
+  margin: 0 7px;
 }
 .btn.selected {
   background: #5567c9;
