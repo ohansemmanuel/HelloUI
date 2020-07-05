@@ -18,11 +18,11 @@
 
 ### About
 
-:thought_balloon: Think Hello world but for UI development.
+:thought_balloon: Think Hello world for **UI** development.
 
 ### Usage
 
-- :pinching_hand: Clone the repo
+- :high_brightness: Clone the repo
   `git clone https://github.com/ohansemmanuel/hello-redux.git`
 - :eyes: Change directory
   `cd hello-redux`
