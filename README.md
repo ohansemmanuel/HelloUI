@@ -57,7 +57,7 @@ Existing solutions include:
 - [x] Recoil
 - [ ] Vue
 - [ ] Svelte
-- [ ] React + Redux
+- [x] React + Redux
 - [ ] React + XState
 
 ### Contributing
