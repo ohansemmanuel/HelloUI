@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { atom, useRecoilState } from "recoil";
 import logo from "./logo.png";
 import "./App.css";
