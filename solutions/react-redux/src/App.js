@@ -6,11 +6,9 @@ import "./App.css";
 
 const PLANETS = ["Web", "Javascript", "Earth"];
 
-//reducer
 const planetsReducer = (state = PLANETS[0], { type, payload }) =>
   type === "SET_PLANET" ? payload : state;
 
-// store
 export const store = createStore(planetsReducer);
 
 function App() {
