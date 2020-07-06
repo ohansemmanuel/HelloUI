@@ -52,8 +52,9 @@ NB: Check each solution's README file for info and notes on the solution.
 
 Existing solutions include:
 
-- [x] Vanilla JS (master)
-- [x] React (react)
+- [x] Vanilla JS
+- [x] React
+- [x] Recoil
 - [ ] Vue
 - [ ] Svelte
 - [ ] React + Redux
