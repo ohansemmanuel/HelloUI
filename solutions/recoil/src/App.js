@@ -1,11 +1,18 @@
 import React, { useState } from "react";
+import { atom, useRecoilState } from "recoil";
 import logo from "./logo.png";
 import "./App.css";
 
 const PLANETS = ["Web", "Javascript", "Earth"];
 
+const activePlanetAtom = atom({
+  key: "activePlanet",
+  default: PLANETS[0],
+});
+
 function App() {
-  const [activePlanet, setActivePlanet] = useState(PLANETS[0]);
+  const [activePlanet, setActivePlanet] = useRecoilState(activePlanetAtom);
+
   const handlePlanetUpdate = (event) => {
     setActivePlanet(event.target.textContent);
   };
