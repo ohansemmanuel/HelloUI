@@ -1,0 +1,19 @@
+.btn {
+  color: #ffffff;
+  background: #000000;
+  border: 0;
+  padding: 8px 25px;
+  border-radius: 26px;
+  box-shadow: 0;
+  font-family: 300;
+  margin: 0 7px;
+}
+.btn.selected {
+  background: #5567c9;
+}
+
+.planet {
+  color: #001949;
+  text-decoration: underline;
+  font-weight: bold;
+}
