@@ -1,13 +1,24 @@
-import React, { useState } from "react";
+import React from "react";
+import { createStore } from "redux";
+import { useDispatch, useSelector } from "react-redux";
 import logo from "./logo.png";
 import "./App.css";
 
 const PLANETS = ["Web", "Javascript", "Earth"];
 
+//reducer
+const planetsReducer = (state = PLANETS[0], { type, payload }) =>
+  type === "SET_PLANET" ? payload : state;
+
+// store
+export const store = createStore(planetsReducer);
+
 function App() {
-  const [activePlanet, setActivePlanet] = useState(PLANETS[0]);
+  const dispatch = useDispatch();
+  const activePlanet = useSelector((v) => v);
+
   const handlePlanetUpdate = (event) => {
-    setActivePlanet(event.target.textContent);
+    dispatch({ type: "SET_PLANET", payload: event.target.textContent });
   };
 
   return (
