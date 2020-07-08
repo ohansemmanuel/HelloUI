@@ -22,7 +22,9 @@ function App() {
   return (
     <>
       <img src={logo} alt="hello-world-logo" width="220" height="190" />
-      <p>{`Hello World from planet ${activePlanet}`}</p>
+      <p>
+        Hello World from planet <span className="planet">{activePlanet}</span>
+      </p>
 
       <section>
         {PLANETS.map((planet) => (
