@@ -22,5 +22,9 @@
   "homepage": "https://github.com/ohansemmanuel/HelloUI#readme",
   "devDependencies": {
     "http-server": "^0.12.3"
+  },
+  "resolutions": {
+    "**/ecstatic": "4.1.4",
+    "**/lodash": "^4.17.19"
   }
 }
