@@ -31,5 +31,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "**/ecstatic": "4.1.4",
+    "**/lodash": "^4.17.19"
   }
 }
