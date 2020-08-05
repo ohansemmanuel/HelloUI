@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server -a localhost -p 3001 -o"
+    "start": "live-server --port=4510 --open=/index.html"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ohansemmanuel/HelloUI#readme",
   "devDependencies": {
-    "http-server": "^0.12.3"
+    "live-server": "^1.2.1"
   },
   "resolutions": {
     "**/ecstatic": "4.1.4",
